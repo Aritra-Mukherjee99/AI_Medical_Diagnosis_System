@@ -37,7 +37,5 @@ This project is an **AI-powered medical diagnosis system** built using **Streaml
 🔹 Integrating real-time data collection via wearable devices  
 
 ## Contributors  
-🚀 **Your Name** - Developer & Researcher  
+🚀 **Your Name** - Aritra Mukherjee  
 
-## License  
-📜 This project is licensed under **MIT License**.
